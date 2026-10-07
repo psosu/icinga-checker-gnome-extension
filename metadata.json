@@ -9,7 +9,7 @@
   "shell-version": [
     "51"
   ],
-  "url": "https://sosulski.net",
+  "url": "https://github.com/psosu/icinga-checker-gnome-extension",
   "uuid": "icinga-checker@sosulski.net",
-  "version": 27
+  "version": 28
 }
