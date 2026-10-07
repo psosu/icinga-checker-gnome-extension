@@ -1,0 +1,25 @@
+<schemalist >
+   <schema id="org.gnome.shell.extensions.icinga-checker" path="/org/gnome/shell/extensions/icinga-checker/">
+
+    <key name="username" type="s">
+	<default>''</default>
+    </key>
+
+    <key name="password" type="s">
+        <default>''</default>
+    </key>
+
+    <key name="urlcgi" type="s">
+        <default>''</default>
+    </key>
+
+    <key name="urltype" type="i">
+        <default>0</default>
+    </key>
+
+    <key name="timeoutinterval" type="i">
+        <default>1</default>
+    </key>
+
+  </schema>
+</schemalist>

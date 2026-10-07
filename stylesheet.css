@@ -1,0 +1,11 @@
+.table { border: 1px solid #cacaca; width: 800px; padding-top: 1px; font-size: 11px; margin: 0; border-radius: 5px; }
+.labelOnPanel { }
+.icinga-refresh-box { spacing: 8px; }
+.icinga-refresh-icon { color: #ffffff; }
+.icinga-refresh-label { color: #ffffff; }
+.critical,.critical_lite { color: #FF3300; }
+.unreachable,.unreachable_lite { color: #E066FF; }
+.warning,.warning_lite { color: #FFA500; }
+.critical { font-weight: bold; }
+.unreachable { font-weight: bold; }
+.warning { font-weight: bold; }
